@@ -12,4 +12,4 @@ The page Roza has created has the following interactive elements:
 	- The participants demographic information
 	
 ## Summary
-Each time the participant ID is changed, all graphics update to the information matching the ID. The web page is also mobile responsive and can be viewed on a variety of mobile devices.
+Each time the participant ID is changed, all graphics update to the information matching the ID. The web page is also mobile responsive and can be viewed on a variety of mobile devices. The website can be viewed at https://debcuyler.github.io/bellybutton/
